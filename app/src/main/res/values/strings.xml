@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Cat Lovers</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="forgot_password">Lupa Password?</string>
+    <string name="username">Chairul</string>
+    <string name="password">1234</string>
+
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+        It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="prompt_price">Rp100.648.500</string>
+    <string name="cat_photo">Photo cat</string>
+    <string name="cat_name">Cat name</string>
+    <string name="cat">Cat</string>
+    <string name="price">Harga :</string>
+
+    <string name="chairul_amri">Chairul Amri</string>
+    <string name="mail_amri">chairoelamri2610@gmail.com</string>
+
+    <string name="chairul_amri1">: Chairul Amri</string>
+    <string name="mail_amri1">: chairoelamri2610@gmail.com</string>
+    <string name="lubuk_alung">: Lubuk Alung</string>
+    <string name="tgl_lahir">: 26 Oktober 1996</string>
+    <string name="laki_laki">: Laki-laki</string>
+    <string name="alamat">: Kp.Pisangan RT 006 RW 011</string>
+    <string name="alamat2">  Kel. penggilingan Kec. Cakung</string>
+    <string name="d3">: Diploma 3 (D3)</string>
+
+
+</resources>
